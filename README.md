@@ -2,9 +2,7 @@ Hi, I am Anna 👋
 
 📚 I have completed the Degree Programme in Information and Communication Technology, specialising in Software Engineering, at Metropolia University of Applied Sciences, Finland.
 
-🌱 I’m currently learning more about Web technologies and Game Development.
-
-✨ I'm interested in Web / Game Development and Design.
+🔧 I enjoy working on Arduino projects to learn more about electronics, programming, and system design.
 
 ⚡ I'm motivated to discover, learn, and improve my skills.
 
